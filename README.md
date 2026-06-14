@@ -1,20 +1,19 @@
 <h2 align="center">Precision Client
 </h2>
-<h3 align="center">The old repository for Precision Client. Rewritten and open-source version <a href="https://github.com/etcherfx/precisionclient/">here</a>
+<h3 align="center">The forked repository of Precision Client and it's original sorce code, created by etcherfx. You are looking at the most recent up to date fork. If you're considering forking this, please don't. Eagler 1.5.2 has been phased out by most servers in favor of 1.8X. Or do it!
 </h3>
 <h4 align="center">Client link:
-  <a href="https://precisionclient.vercel.app">https://precisionclient.vercel.app
+  <a href="placeholder
   </a>
 </h4>
-<h4 align="center">The offline download is located
-  <a href="https://github.com/etcherfx/precisionclient/releases">here
+<h4 align="center">The offline download is located nowhere
   </a>
 </h4>
 <h4 align="center">Join the
   <a href="https://discord.gg/agFak6frsj">Discord
   </a> server for any questions
 </h4>
-<h4 align="center">Replit deployment no longer supported
+<h4 align="center">Replit deployment no longer supported. What do you think?
 </h4>
 <img src="https://cdn.discordapp.com/attachments/952288902494965811/1006655724971102208/unknown.png">
 <h2 align="center">Projects Used
@@ -46,7 +45,7 @@
   <li>
     <a href="https://www.planetminecraft.com/texture-pack/bare-bones/">Bare Bones</a> for the Bare Bones texture pack
   </li>
-  <li>Note: If I used your project and forgot to credit you here, please contact me at etcher#1849 on discord
+  <li>Note: If I used your project and forgot to credit you here, please contact me by Discord, @siokre
   </li>
 </ul>
 <h2 align="center">Features
