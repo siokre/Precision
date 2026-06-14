@@ -1,6 +1,6 @@
 <h2 align="center">Precision Client
 </h2>
-<h3 align="center">The forked repository of Precision Client and it's original sorce code, created by etcherfx. You are looking at the most recent up to date fork. If you're considering forking this, please don't. Eagler 1.5.2 has been phased out by most servers in favor of 1.8X. Or do it!
+<h3 align="center">The forked repository of Precision Client and it's original source code, created by etcherfx. You are looking at the most recent up to date fork. If you're considering forking this, please don't. Eagler 1.5.2 has been phased out by most servers in favor of 1.8X. Or do it!
 </h3>
 <h4 align="center">Client link:
   <a href="placeholder
