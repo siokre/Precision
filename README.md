@@ -1,19 +1,19 @@
-<h2 align="center">Precision Client
+<h2 align="center">Precision Client 1.5.2
 </h2>
-<h3 align="center">The forked repository of Precision Client and it's original source code, created by etcherfx. You are looking at the most recent up to date fork. If you're considering forking this, please don't. Eagler 1.5.2 has been phased out by most servers in favor of 1.8X. Or do it!
+<h3 align="center">Original Precision Client source code, 
 </h3>
 <h4 align="center">Client link:
   <a href="placeholder
   </a>
 </h4>
-<h4 align="center">The offline download is located nowhere
+<h4 align="center">
   </a>
 </h4>
-<h4 align="center">Join the
-  <a href="https://discord.gg/agFak6frsj">Discord
-  </a> server for any questions
+<h4 align="center">
+  <a href="
+  </a>
 </h4>
-<h4 align="center">Replit deployment no longer supported. What do you think?
+<h4 align="center">Replit deployment deprecated
 </h4>
 <img src="https://cdn.discordapp.com/attachments/952288902494965811/1006655724971102208/unknown.png">
 <h2 align="center">Projects Used
