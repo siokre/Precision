@@ -1,6 +1,6 @@
 <h2 align="center">Precision Client 1.5.2
 </h2>
-<h3 align="center">Original Precision Client source code, 
+<h3 align="center">Original Precision Client source code 
 </h3>
 <h4 align="center">Client link:
   <a href="placeholder
@@ -13,7 +13,7 @@
   <a href="
   </a>
 </h4>
-<h4 align="center">Replit deployment deprecated
+<h4 align="center">
 </h4>
 <img src="https://cdn.discordapp.com/attachments/952288902494965811/1006655724971102208/unknown.png">
 <h2 align="center">Projects Used
